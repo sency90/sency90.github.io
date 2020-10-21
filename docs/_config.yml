@@ -1,8 +1,8 @@
 ---
 version: 4.1.1
-name: Jekyll • Simple, blog-aware, static sites
+name: plzrun • algorithm site
 description: Transform your plain text into static websites and blogs
-url: https://jekyllrb.com
+url: https://sency90.github.io
 repository: https://github.com/jekyll/jekyll
 timezone: America/Los_Angeles
 twitter:
